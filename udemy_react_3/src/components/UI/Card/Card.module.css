@@ -1,0 +1,9 @@
+.card {
+  /* background: #eee; */
+  background-image: url('../../Image/carte.jpg');
+  background-position: -1000% 40%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+}
